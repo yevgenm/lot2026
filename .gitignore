@@ -1,0 +1,13 @@
+# Track directory structure but not the bulk contents
+1/*
+2/*
+3/*
+4/*
+5/*
+
+# Keep these
+!1/LOT - Lecture 1.pdf
+!2/.gitkeep
+!3/.gitkeep
+!4/.gitkeep
+!5/.gitkeep
