@@ -26,31 +26,31 @@ This course looks at computational models as tools for studying how humans learn
 
 **Preparatory reading:** Chapters 1–3 (pp. 1–60) in Beinborn, L., & Hollenstein, N. (2023). *Cognitive plausibility in natural language processing.* Springer Nature. DOI: https://doi.org/10.1007/978-3-031-43260-6
 
-### Monday — What makes a computational model cognitive?
+### Monday | What makes a computational model cognitive?
 
 To be read before Tuesday's class:
 
 - Wilcox, E. G., Hu, M. Y., Mueller, A., Warstadt, A., Choshen, L., Zhuang, C., Williams, A., Cotterell, R., & Linzen, T. (2025). Bigger is not always better: The importance of human-scale language modeling for psycholinguistics. *Journal of Memory and Language, 144,* 104650. DOI: https://doi.org/10.1016/j.jml.2025.104650
 
-### Tuesday — Architectural and data choices
+### Tuesday | Architectural and data choices
 
 To be read before Wednesday's class:
 
 - Feldman, N. H., Goldwater, S., Dupoux, E., & Schatz, T. (2021). Do infants really learn phonetic categories? *Open Mind, 5,* 113–131. DOI: https://doi.org/10.1162/opmi_a_00046
 
-### Wednesday — Learning representations
+### Wednesday | Learning representations
 
 To be read before Thursday's class:
 
 - Winther, I. E., Matusevych, Y., & Pickering, M. J. (2021). Cumulative frequency can explain cognate facilitation in language models. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* (pp. 2513–2519). Austin, TX: Cognitive Science Society. https://escholarship.org/uc/item/5d39q2k1
 
-### Thursday — Multilingual learning
+### Thursday | Multilingual learning
 
 To be read before Friday's class:
 
 - Matusevych, Y., Kamper, H., Schatz, T., Feldman, N. H., & Goldwater, S. (2021). A phonetic model of non-native spoken word processing. In P. Merlo, J. Tiedemann & R. Tsafary (Eds.), *Proceedings of the 16th Annual Meeting of the European Chapter of the Association for Computational Linguistics (EACL)* (pp. 1480–1490). Stroudsburg, PA: Association for Computational Linguistics. DOI: https://doi.org/10.18653/v1/2021.eacl-main.127
 
-### Friday — Modeling across domains and modalities
+### Friday | Modeling across domains and modalities
 
 ## Further readings (optional)
 
