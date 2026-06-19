@@ -1,9 +1,7 @@
-# Track directory structure but not the bulk contents
+# Ignore the bulk directory contents; committed files stay tracked.
+# To add a new file from these dirs, use: git add -f <path>
 1/*
 2/*
 3/*
 4/*
 5/*
-
-# Keep these
-!1/LOT - Lecture 1.pdf
